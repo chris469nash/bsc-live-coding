@@ -1,0 +1,4 @@
+﻿  0_SDL_Window.vcxproj -> C:\Users\Christopher Nash\Documents\Computing for Games (Uni)\Year 2\Comp220\bsc-live-coding\COMP220\COMP220_Examples\x64\Debug\0_SDL_Window.exe
+  The syntax of the command is incorrect.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "copy ..\..\..\Libraries\SDL2-2.0.6\lib\x64\SDL2.dll C:\Users\Christopher Nash\Documents\Computing for Games (Uni)\Year 2\Comp220\bsc-live-coding\COMP220\COMP220_Examples\x64\Debug\\SDL2.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code 1.
