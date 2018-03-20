@@ -100,7 +100,7 @@
       <PreprocessorDefinitions>_MBCS;BT_USE_DOUBLE_PRECISION;_DEBUG=1;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>..\..\..\Libraries\bullet3-2.87\bin;..\..\..\Libraries\SDL2_image-2.0.1\lib\x64;..\..\..\Libraries\assimp\lib;..\..\..\Libraries\SDL2-2.0.6\lib\x64;..\..\..\Libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\..\..\Libraries\bullet3-2.87\build3\vs2010\x64\Debug;..\..\..\Libraries\SDL2_image-2.0.1\lib\x64;..\..\..\Libraries\assimp\lib;..\..\..\Libraries\SDL2-2.0.6\lib\x64;..\..\..\Libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2_image.lib;SDL2.lib;SDL2main.lib;OpenGL32.lib;glew32.lib;assimp-vc140-mt.lib;BulletDynamics.lib;BulletCollision.lib;LinearMath.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <SubSystem>Console</SubSystem>
     </Link>
